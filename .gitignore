@@ -1,0 +1,47 @@
+# Maven
+target/
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+
+# Compiled bytecode
+*.class
+
+# Logs
+log/
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+*.iml
+*.iws
+*.ipr
+.idea/
+*.class
+
+# Visual Studio Code
+.vscode/
+
+# Spring Boot
+spring-boot-starter-*/target/
+spring-boot-starter-*/build/
+
+# Test Reports
+/TEST-*.xml
+/target/surefire-reports/
+
+# Mac
+.DS_Store
